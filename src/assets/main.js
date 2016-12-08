@@ -5,7 +5,7 @@ $(function() {
     datatype: 'jsonp',
     success : function(response) {
 
-    },
+    }
   });
 
 });

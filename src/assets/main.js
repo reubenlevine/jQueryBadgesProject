@@ -1,8 +1,8 @@
 $(function() {
 
-  jQuery.ajax({
+  $.ajax({
     url     : 'https://www.codeschool.com/users/reubenlevine.json',
-    datatype: 'jsonp',
+    dataType: 'jsonp',
     success : function(response) {
 
     }
